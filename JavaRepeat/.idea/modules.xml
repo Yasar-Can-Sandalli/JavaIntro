@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaRepeat.iml" filepath="$PROJECT_DIR$/.idea/JavaRepeat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstrackClasses/abstrackClasses.iml" filepath="$PROJECT_DIR$/abstrackClasses/abstrackClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo2/abstractDemo2.iml" filepath="$PROJECT_DIR$/abstractDemo2/abstractDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo2/polymorphismDemo2.iml" filepath="$PROJECT_DIR$/polymorphismDemo2/polymorphismDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recCapDemo_Classes/recCapDemo_Classes.iml" filepath="$PROJECT_DIR$/recCapDemo_Classes/recCapDemo_Classes.iml" />
+    </modules>
+  </component>
+</project>
